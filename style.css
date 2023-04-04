@@ -1,0 +1,307 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.pinimg.com/originals/de/50/83/de5083596c0909512b27ac79f46e071d.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    font-family: 'Bree Serif', serif;
+}
+
+/* Edição do cabeçalho */
+.cabecalho{
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-width: 0.1px;
+    font-size: 25px;
+    
+}
+
+
+h1{
+    transition: 200ms linear;
+}
+
+h1:hover{
+
+    transform:scale(1.05)
+    
+}
+
+h3{
+    transition: 200ms linear;
+}
+
+h3:hover{
+
+    transform:scale(1.05)
+    
+}
+
+h4{
+    transition: 200ms linear;
+}
+
+h4:hover{
+
+    transform:scale(1.05)
+    
+}
+
+/* Fim da edição do cabeçalho */
+
+
+/* Edição do Rodapé */
+
+h5{
+    font-size: 20px;
+    transition: 200ms linear;
+    color: #3F2914;
+    margin-left: 5%;
+    width: 370px;
+}
+
+h5:hover{
+
+    color: whitesmoke;
+    border-radius: 500px;
+    width: 400px;
+}
+
+/* Fim da edição do rodapé */
+
+/* Estilização dos botões */
+
+.botao1 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+
+}
+
+.botao1 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+    
+}
+
+.botao1 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao1 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.botao2 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+}
+
+.botao2 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+    
+}
+
+.botao2 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao2 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao3 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+}
+
+.botao3 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+    
+}
+
+.botao3 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao3 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao4 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+}
+
+.botao4 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+}
+
+.botao4 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao4 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao5 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+}
+
+.botao5 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+}
+
+.botao5 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao5 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao6 button{
+
+    background: none;
+    width: 150px;
+    height: 50px;
+    opacity: 5%;
+    transition: 350ms linear;
+}
+
+.botao6 button:hover{
+
+    opacity: 100%;
+    transform: scale(1.1);
+    border-radius: 15px;
+}
+
+.botao6 button a{
+    
+    text-decoration: none;
+    color: #4A3331;
+    font-family: 'Bree Serif', serif;;
+    font-size: 15px;
+}
+
+.botao6 button a:hover{
+
+    color: whitesmoke;
+    transition: 300ms ease-in-out;
+}
+
+.botao6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* Fim da estilização dos botões */

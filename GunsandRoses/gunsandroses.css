@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    margin: 0px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    
+
+
+}
+
+pre{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    font: normal;
+    font-style: normal;
+    font-size-adjust: inherit;
+    color: ;
+
+
+}
+

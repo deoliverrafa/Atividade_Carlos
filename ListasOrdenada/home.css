@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto Slab', serif;
+    height: 100%;        
+    color: #dddd;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("./cachoeirafundo.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.lista{
+    font-size: 30px;
+    text-align: start;
+    align-items: start;
+    align-items: start;
+    flex: auto;    
+    margin: 30px;
+    padding-left: 30px;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+a{
+    color: whitesmoke;
+    
+}
+
+

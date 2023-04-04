@@ -1,0 +1,54 @@
+
+body{
+    font-family: 'Merriweather', serif;
+    font-size: 23px;
+    color: snow;
+    background-color: pink 50% orange 50%;
+    margin: 23px;   
+    background-color: lig;
+    width: 100%;
+    background-image: url('./Fundo.jpg' );
+    background-size: cover;
+    background-repeat: initial;
+    
+    
+}
+
+
+
+.card{
+    margin: 55px;
+    width: 300px;
+    padding: 0px;
+    height: 300px;
+    position: center;
+
+}
+
+.card__image {
+    width: 100%;
+    height: 300px;
+    width: 320px;
+    
+}
+
+table{
+    margin: 35px;
+    color: whitesmoke;
+    
+}
+
+th{
+    padding: 30px;
+
+}
+
+
+a{
+    color: whitesmoke;
+
+}
+
+
+
+
