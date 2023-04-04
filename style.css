@@ -305,3 +305,14 @@ h5:hover{
 }
 
 /* Fim da estilização dos botões */
+
+/* Adaptação para celular */
+
+@media (max-width: 600px){
+
+body{
+
+    background-size: 2090px;
+}
+
+}
